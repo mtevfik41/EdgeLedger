@@ -15,6 +15,8 @@
 
 ## About The Project
 
+- [NETLIFY](https://edgeledger-website-app.netlify.app/)
+
 I created a simple website to practice responsive design, HTML and CSS.
 
 ### Built With
@@ -34,4 +36,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
 
-Project Link: [https://github.com/mtevfik41/hotel_website](https://github.com/mtevfik41/hotel_website)
+Project Link: [https://edgeledger-website-app.netlify.app/](https://edgeledger-website-app.netlify.app/)
